@@ -1,6 +1,6 @@
-## TODO:
-## Student Name:
-## Student ID: 
+## TODO: 
+## Student Name: Humayun Ejaz
+## Student ID: 219476837
 
 # Meeting Slot Suggestion Lab Repository
 
